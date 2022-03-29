@@ -13,7 +13,7 @@ would parse the file and read the Access key ID and Secret access key.
 5) Cognito samples
 6) Programatically getting information about EC2 instances
 
-I might do some live coding / AWS management samples on ALight Technology And Service Limited's youtube channel at https://www.youtube.com/channel/UCBuu5ksejp5uPIJmPuReSTA 
+I might do some live coding / AWS management samples on ALight Technology And Service Limited's youtube channel at https://www.youtube.com/channel/UCBuu5ksejp5uPIJmPuReSTA and https://www.youtube.com/channel/UCfWg1fhujnIf6b621UZ_SGg
 or I might check-in the code samples.
 
 This repository would serve the purpose of more code samples in .Net and would accompany ALight Technology And Service Limited's technical blog at https://www.alightservices.com/technical-blog/.
